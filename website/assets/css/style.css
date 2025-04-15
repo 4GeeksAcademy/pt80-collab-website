@@ -5,3 +5,28 @@ body{
 footer {
     font-style: italic;
 }
+
+
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.row{
+    text-align: center;
+    padding-top: 30px;
+    margin: 0 30px;
+}
+#tagline-text-1{
+    background-color: rgba(211, 211, 211, 0.507); 
+    
+}
+#tagline-text-2{
+    background-color: rgba(211, 211, 211, 0.507);  
+}
+
+#tagline{
+    background-image: url(https://media.istockphoto.com/id/1280385511/photo/colorful-background.jpg?s=1024x1024&w=is&k=20&c=vd0BzayI498v8pOGlhzbvTiNpNf7HF5dClK4Qvy4Jac=);
+    background-size:100%;
+    height: 200px;
+}
