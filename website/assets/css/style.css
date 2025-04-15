@@ -2,6 +2,11 @@ body{
     background: #BDBDBD;
 }
 
+footer {
+    font-style: italic;
+}
+
+
 .container-fluid{
     padding-left: 0;
     padding-right: 0;
